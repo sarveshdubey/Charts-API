@@ -1,0 +1,4 @@
+Following are the requirements for the IS test assignment.
+Django==3.1.7
+djangorestframework==3.12.2
+requests==2.25.1
